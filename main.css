@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#calc {
+    margin-left: auto;
+    margin-right: auto;
+}
+#display-panel {
+    text-align: right;
+    width: 13.6em;
+}
+.btn {
+    height: 2em;
+    width: 2em;
+}
+.plus-button {
+    height: 6.4em;
+}
